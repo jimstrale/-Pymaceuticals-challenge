@@ -9,4 +9,4 @@ Observations and Insights
 
 
 
-I was unable to figure out how to complete the box and whisker using the loop. Instead I biuld separate series for each drug regimen and pulled them all in to the same plot.
+I was unable to figure out how to complete the box and whisker using the loop. Instead I built separate series for each drug regimen and pulled them all in to the same plot.
